@@ -1,0 +1,18 @@
+html, body{
+    height: 100%; 
+    width: 100%;
+    color: #fff;
+    font-family: monospace;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #3b3b3b;
+}
+
+canvas{
+    background-color: #fff;
+}
